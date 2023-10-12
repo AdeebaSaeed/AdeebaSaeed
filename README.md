@@ -1,10 +1,10 @@
 ### Hi there 👋 I am Adeeba
-## A Full Satck Developer based in Sweden
+# A Full Satck Developer based in Sweden
 
-# The Languages i work on with 
-# JavaScript 
-# React with Typescript 
-# MySQL
+### The Languages i work on with 
+### JavaScript 
+### React with Typescript 
+### MySQL
 
 
 
