@@ -4,7 +4,7 @@ Welcome to my GitHub! 👋
 
 💼 Committed to crafting seamless and innovative web solutions, with a foundation in computer science.
 
-###🛠️ Technical Expertise
+### 🛠️ Technical Expertise
 
 🎨 Frontend Mastery:
 
