@@ -1,21 +1,20 @@
 Welcome to my GitHub! 👋 
-## I'm Adeeba Saeed
-### a passionate Full Stack Developer ✨
-committed to crafting seamless and innovative web solutions. With a foundation in computer science.
-
-🌟 Adeeba Saeed
-Dedicated & Versatile Software Developer
+## I'm 🌟Adeeba Saeed
+### a Dedicated & Versatile Full Stack Developer ✨
 
 💼 Committed to crafting seamless and innovative web solutions, with a foundation in computer science.
 
-🛠️ Technical Expertise
+###🛠️ Technical Expertise
 
 🎨 Frontend Mastery:
 
-HTML5
-CSS3
+React
+CSS
 JavaScript
+Tailwind 
+MAterial UI
 Responsive Web Design
+
 🔧 Backend Wizardry:
 
 Node.js
@@ -23,6 +22,7 @@ Express.js
 REST APIs
 💾 Database Dynamo:
 
+FireStore 
 MySQL
 MongoDB
 ⚛️ React Alchemist:
